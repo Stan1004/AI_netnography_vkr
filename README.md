@@ -1,2 +1,3 @@
-# AI_netnography
-AI Augmented Netnography 
+# AI Augmented Netnography 
+VKR work by Stanislav Alekseev 
+
