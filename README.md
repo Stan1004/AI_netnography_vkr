@@ -1,2 +1,2 @@
-# AI_netnography_vkr
+# AI_netnography
 AI Augmented Netnography 
